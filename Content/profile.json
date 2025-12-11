@@ -4,14 +4,13 @@
   "Currently": "Electrical Engineering Student",
   "Headshot": "student-portrait.jpg",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Cameren Banis. I am a passionate electrical engineering student with a keen interest in PCB design, power electronics, and control systems. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of electrical engineering, with a particular focus on power systems.<br><br>I enjoy working in a collaborative environment where I am able to tackle problems with my fellow peers, learning new things with every problem that arises.<br><br>Beyond the classroom, I am the acting IEEE chair at Seattle Pacific University, which allows me to explore various different fields in electrical engineering and learn about the evolving industry from their expertise. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Aloha! I'm Cameren Banis, an Electrical Engineering student passionate about power systems, renewable system design, and control system modeling. Currently I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to gaining experience with power system planning and design and learning how to integrate these skills in community oriented projects.<br><br>I've worked with Hawaiian Electric Company on overhead and underground distribution projects revolving around grid hardening efforts and wildfire safety.<br><br>Ouside of class, I am currently conducting research on Kite control units and working on the design and construction of a small microgrid to be installed on campus."
 },
 "Contact": {
   "EMail": "baniscameren@gmail.com",
   "Phone": "(808) 228-6982",
-  "Portfolio": "https://github.com/Banisc19/banis-cameren.github.io",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://github.com"
+  "Portfolio": "banis-cameren.github.io",
+  "LinkedIn": "https://linkedin.com/in/camerenbanis",
 },
 "Experience": {
   "ExperienceText": "I am a graduate of the class of 2022 at Kamehameha Schools Kapalama and have had an involvement in technical design projects through the robotics program. Through mentorship there I decided to pursue Electrical Engineering in order to become a part of similar projects in the future while also gaining the knowledge and experience to help mentor/inspire students of Hawaii to go into the field. During my time at Seattle Pacific University, I have engaged in various solo and collaborative design projects under the electrical engineering program. Through these experiences I have gained a plethora of analytical skills and learned to work alongside my peers to be able to evaluate and develp educated solutions. Through these projects, essential skills such as learning to operate different types of equipment and picking up new kinds of software. I have also undertaken the school's IEEE program and operate as chair, where I collaborate with industry professionals, professors, and students to help prepare students for the workforce through tech talks, networking events, and design projects. The latest projects being overseen by SPU IEEE is the Micromouse and aritifical intelligence research program. This organization has given me the benefit of being able to attend various equipment trainings and industry related tech talks hosted buy the organizations, giving me plenty of insight into the fields of electrical engineering.",
@@ -22,28 +21,28 @@
   "Employment": "Seattle Pacific University",
   "Role": "Physics Learning Assistant",
   "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", "Multisim", "Oscilloscopes", "Power Supplies", "Altium PCB Design", "LTSpice", "Excel"],
+  "Skills": ["Overhead and underground distribution design", "Microgrid and renewable energy systems design", "OCalc-Pro Line Design", "PCB design", "Embedded systems (Arduino, STM32 NUCLEO)", "LTSpice", "MATLAB", "Excel"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume/CV": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Frequency Detector Design Project",
+    "Title": "Dual Adjustable Multi-Output Power Supply",
     "Desc": "Student designed frequency detector that operates to attenuate frequency outside 25 kHz<br>and demonstrates operation through physical and analog data",
-    "ProjectFile": "https://drive.google.com/file/d/1WVxoNiicFmQ1xgjixCOcSrAsatM43L9B/view?usp=sharing",
+    "GitHubRepo": "https://drive.google.com/file/d/1WVxoNiicFmQ1xgjixCOcSrAsatM43L9B/view?usp=sharing",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Dual Adjustable Power Supply with Different Voltage Levels",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "Comparative Analysis of Airborne Wind Energy and Conventional Wind Turbines for Microgrid Applications",
+    "Desc": "This project was a research paper that my peers and I developed over the span of a quarter researching the novel technologies of airborne wind energy systems. This research aims to demonstrate that airborne wind energy (AWE) has the potential to be a more effective solution than conventional wind turbines for local regions looking to integrate wind power. To support this, we analyzed preexisting wind turbine systems, evaluating their energy production and overall performance to highlight the advantages of AWE.",
+    "ProjectFile": "",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Integrated PCB Design for Multi-Trim Automotive Systems",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+    "Title": "Small-scale Airborne Wind Energy Generator",
+    "Desc": "This project is the current senior design project of my degree. My team and I are working on esigning and building a small scale airborne wind energy system for small scale power applications. My section of this projects development focuses on designing, building, and programming the kite's airborn control system which steers the kite using dual tether lines.",
+    "ProjectFile": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
