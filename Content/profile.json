@@ -35,14 +35,14 @@
   "Project2": {
     "Title": "Comparative Analysis of Airborne Wind Energy and Conventional Wind Turbines for Microgrid Applications",
     "Desc": "This project was a research paper that my peers and I developed over the span of a quarter researching the novel technologies of airborne wind energy systems. This research aims to demonstrate that airborne wind energy (AWE) has the potential to be a more effective solution than conventional wind turbines for local regions looking to integrate wind power. To support this, we analyzed preexisting wind turbine systems, evaluating their energy production and overall performance to highlight the advantages of AWE.",
-    "ProjectFile": "",
+    "GitHubRepo": "",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Small-scale Airborne Wind Energy Generator",
     "Desc": "This project is the current senior design project of my degree. My team and I are working on esigning and building a small scale airborne wind energy system for small scale power applications. My section of this projects development focuses on designing, building, and programming the kite's airborn control system which steers the kite using dual tether lines.",
-    "ProjectFile": "",
+    "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
