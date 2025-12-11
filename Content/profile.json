@@ -17,17 +17,17 @@
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering BSc",
   "Graduation": "June 2026",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Physics Learning Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
+  "EducationText": "During my time at SPU, I have had the fortunate experience of engaging in numerous hands on design projects. Because of these projects I now have a wide range of skills thast range from electronics designs with PCB CAD software to higher voltage renewable energy systems. These projects have allowed me to devlop essential analysis skills expected of an engineers such as load analysis, safety system integration, system sizing, and control.",
+  "Employment": "Hawaiian Electric Company",
+  "Role": "Electrical Engineering Design Intern",
+  "EmploymentText": "In my internship at Hawaiian Electric Company I was tasked with producing engineering drawings for the reconductoring of 12kV distribution lines, installation of fire-safe fusesand cutouts, and replacement of utility poles. I used O-Calc Pro to utilize company data and on-site measurements to analyze structural performance. In the end, ",
   "Skills": ["Overhead and underground distribution design", "Microgrid and renewable energy systems design", "OCalc-Pro Line Design", "PCB design", "Embedded systems (Arduino, STM32 NUCLEO)", "LTSpice", "MATLAB", "Excel"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "SkillsText": "I’m passionate about applying electrical engineering to build reliable and sustainable energy systems. Through my coursework and experience at Hawaiian Electric, I’ve developed hands-on skills in power distribution design, CAD modeling, and renewable system planning.",
   "Resume/CV": "student-resume.pdf"  
 },
 "Project1": {
     "Title": "Dual Adjustable Multi-Output Power Supply",
-    "Desc": "Student designed frequency detector that operates to attenuate frequency outside 25 kHz<br>and demonstrates operation through physical and analog data",
+    "Desc": "Student designed power supply device that is able to intake a 120V AC and regulate the power into 5 output stages ranging from -19 to 19V",
     "GitHubRepo": "https://drive.google.com/file/d/1WVxoNiicFmQ1xgjixCOcSrAsatM43L9B/view?usp=sharing",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
