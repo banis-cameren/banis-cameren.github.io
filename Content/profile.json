@@ -21,7 +21,7 @@
   "Employment": "Hawaiian Electric Company",
   "Role": "Electrical Engineering Design Intern",
   "EmploymentText": "In my internship at Hawaiian Electric Company I was tasked with producing engineering drawings for the reconductoring of 12kV distribution lines, installation of fire-safe fusesand cutouts, and replacement of utility poles. I used O-Calc Pro to utilize company data and on-site measurements to analyze structural performance.",
-  "Skills": ["Overhead and underground distribution design", "Microgrid and renewable energy systems design", "OCalc-Pro Line Design", "PCB design", "Embedded systems (Arduino, STM32 NUCLEO)", "LTSpice", "MATLAB", "Excel"],
+  "Skills": ["Overhead and underground distribution design", " Microgrid and renewable energy systems design", " OCalc-Pro Line Design", " PCB design", " Embedded systems (Arduino, STM32 NUCLEO)", " LTSpice", " MATLAB", " Excel"],
   "SkillsText": "I’m passionate about applying electrical engineering to build reliable and sustainable energy systems. Through my coursework and experience at Hawaiian Electric, I’ve developed hands-on skills in power distribution design, CAD modeling, and renewable system planning.",
   "Resume/CV": "student-resume.pdf"  
 },
